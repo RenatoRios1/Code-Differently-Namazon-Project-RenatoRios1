@@ -1,2 +1,2 @@
-# Code-Differently-Namazon-Project-RenatoRios1
-Namazon Java Project
+# Code-Differently-namazon.Namazon-Project-RenatoRios1
+namazon.Namazon Java Project
